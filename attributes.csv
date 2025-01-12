@@ -1,0 +1,295 @@
+name,supercategory,level,taxonomy_id
+classic (t-shirt),nickname,1,att000002_00
+polo (shirt),nickname,1,att000003_00
+undershirt,nickname,1,att000004_00
+henley (shirt),nickname,1,att000005_00
+ringer (t-shirt),nickname,1,att000006_00
+raglan (t-shirt),nickname,1,att000007_00
+rugby (shirt),nickname,1,att000008_00
+sailor (shirt),nickname,1,att000009_00
+crop (top),nickname,1,att000010_00
+halter (top),nickname,1,att000011_00
+camisole,nickname,1,att000012_00
+tank (top),nickname,1,att000013_00
+peasant (top),nickname,1,att000014_00
+tube (top),nickname,1,att000015_00
+tunic (top),nickname,1,att000016_00
+smock (top),nickname,1,att000017_00
+hoodie,nickname,1,att000018_00
+blazer,nickname,1,att000019_00
+pea (jacket),nickname,1,att000020_00
+puffer (jacket),nickname,1,att000021_00
+biker (jacket),nickname,1,att000022_00
+trucker (jacket),nickname,1,att000023_00
+bomber (jacket),nickname,1,att000024_00
+anorak,nickname,1,att000025_00
+safari (jacket),nickname,1,att000026_00
+mao (jacket),nickname,1,att000027_00
+nehru (jacket),nickname,1,att000028_00
+norfolk (jacket),nickname,1,att000029_00
+classic military (jacket),nickname,1,att000030_00
+track (jacket),nickname,1,att000031_00
+windbreaker,nickname,1,att000032_00
+chanel (jacket),nickname,1,att000033_00
+bolero,nickname,1,att000034_00
+tuxedo (jacket),nickname,1,att000035_00
+varsity (jacket),nickname,1,att000036_00
+crop (jacket),nickname,1,att000037_00
+jeans,nickname,1,att000038_00
+sweatpants,nickname,1,att000039_00
+leggings,nickname,1,att000040_00
+hip-huggers (pants),nickname,1,att000041_00
+cargo (pants),nickname,1,att000042_00
+culottes,nickname,1,att000043_00
+capri (pants),nickname,1,att000044_00
+harem (pants),nickname,1,att000045_00
+sailor (pants),nickname,1,att000046_00
+jodhpur,nickname,1,att000047_00
+peg (pants),nickname,1,att000048_00
+camo (pants),nickname,1,att000049_00
+track (pants),nickname,1,att000050_00
+crop (pants),nickname,1,att000051_00
+short (shorts),nickname,1,att000052_00
+booty (shorts),nickname,1,att000053_00
+bermuda (shorts),nickname,1,att000054_00
+cargo (shorts),nickname,1,att000055_00
+trunks,nickname,1,att000056_00
+boardshorts,nickname,1,att000057_00
+skort,nickname,1,att000058_00
+roll-up (shorts),nickname,1,att000059_00
+tie-up (shorts),nickname,1,att000060_00
+culotte (shorts),nickname,1,att000061_00
+lounge (shorts),nickname,1,att000062_00
+bloomers,nickname,1,att000063_00
+tutu (skirt),nickname,1,att000064_00
+kilt,nickname,1,att000065_00
+wrap (skirt),nickname,1,att000066_00
+skater (skirt),nickname,1,att000067_00
+cargo (skirt),nickname,1,att000068_00
+hobble (skirt),nickname,1,att000069_00
+sheath (skirt),nickname,1,att000070_00
+ball gown (skirt),nickname,1,att000071_00
+gypsy (skirt),nickname,1,att000072_00
+rah-rah (skirt),nickname,1,att000073_00
+prairie (skirt),nickname,1,att000074_00
+flamenco (skirt),nickname,1,att000075_00
+accordion (skirt),nickname,1,att000076_00
+sarong (skirt),nickname,1,att000077_00
+tulip (skirt),nickname,1,att000078_00
+dirndl (skirt),nickname,1,att000079_00
+godet (skirt),nickname,1,att000080_00
+blanket (coat),nickname,1,att000081_00
+parka,nickname,1,att000082_00
+trench (coat),nickname,1,att000083_00
+pea (coat),nickname,1,att000084_00
+shearling (coat),nickname,1,att000085_00
+teddy bear (coat),nickname,1,att000086_00
+puffer (coat),nickname,1,att000087_00
+duster (coat),nickname,1,att000088_00
+raincoat,nickname,1,att000089_00
+kimono,nickname,1,att000090_00
+robe,nickname,1,att000091_00
+dress (coat ),nickname,1,att000092_00
+duffle (coat),nickname,1,att000093_00
+wrap (coat),nickname,1,att000094_00
+military (coat),nickname,1,att000095_00
+swing (coat),nickname,1,att000096_00
+halter (dress),nickname,1,att000097_00
+wrap (dress),nickname,1,att000098_00
+chemise (dress),nickname,1,att000099_00
+slip (dress),nickname,1,att000100_00
+cheongsams,nickname,1,att000101_00
+jumper (dress),nickname,1,att000102_00
+shift (dress),nickname,1,att000103_00
+sheath (dress),nickname,1,att000104_00
+shirt (dress),nickname,1,att000105_00
+sundress,nickname,1,att000106_00
+kaftan,nickname,1,att000107_00
+bodycon (dress),nickname,1,att000108_00
+nightgown,nickname,1,att000109_00
+gown,nickname,1,att000110_00
+sweater (dress),nickname,1,att000111_00
+tea (dress),nickname,1,att000112_00
+blouson (dress),nickname,1,att000113_00
+tunic (dress),nickname,1,att000114_00
+skater (dress),nickname,1,att000115_00
+asymmetrical,silhouette,1,att000117_00
+symmetrical,silhouette,1,att000118_00
+peplum,silhouette,1,att000119_00
+circle,silhouette,1,att000120_00
+flare,silhouette,1,att000121_00
+fit and flare,silhouette,1,att000122_00
+trumpet,silhouette,1,att000123_00
+mermaid,silhouette,1,att000124_00
+balloon,silhouette,1,att000125_00
+bell,silhouette,1,att000126_00
+bell bottom,silhouette,1,att000127_00
+bootcut,silhouette,1,att000128_00
+peg,silhouette,1,att000129_00
+pencil,silhouette,1,att000130_00
+straight,silhouette,1,att000131_00
+a-line,silhouette,1,att000132_00
+tent,silhouette,1,att000133_00
+baggy,silhouette,1,att000134_00
+wide leg,silhouette,1,att000135_00
+high low,silhouette,1,att000136_00
+curved (fit),silhouette,1,att000137_00
+tight (fit),silhouette,1,att000138_00
+regular (fit),silhouette,1,att000139_00
+loose (fit),silhouette,1,att000140_00
+oversized,silhouette,1,att000141_00
+empire waistline,waistline,1,att000143_00
+dropped waistline,waistline,1,att000144_00
+high waist,waistline,1,att000145_00
+normal waist,waistline,1,att000146_00
+low waist,waistline,1,att000147_00
+basque (wasitline),waistline,1,att000148_00
+no waistline,waistline,1,att000149_00
+above-the-hip (length),length,1,att000151_00
+hip (length),length,1,att000152_00
+micro (length),length,1,att000153_00
+mini (length),length,1,att000154_00
+above-the-knee (length),length,1,att000155_00
+knee (length),length,1,att000156_00
+below the knee (length),length,1,att000157_00
+midi,length,1,att000158_00
+maxi (length),length,1,att000159_00
+floor (length),length,1,att000160_00
+sleeveless,length,1,att000161_00
+short (length),length,1,att000162_00
+elbow-length,length,1,att000163_00
+three quarter (length),length,1,att000164_00
+wrist-length,length,1,att000165_00
+asymmetric (collar),nickname,1,att000166_00
+regular (collar),nickname,1,att000167_00
+shirt (collar),nickname,1,att000168_00
+polo (collar),nickname,1,att000169_00
+chelsea (collar),nickname,1,att000170_00
+banded (collar),nickname,1,att000171_00
+mandarin (collar),nickname,1,att000172_00
+peter pan (collar),nickname,1,att000173_00
+bow (collar),nickname,1,att000174_00
+stand-away (collar),nickname,1,att000175_00
+jabot (collar),nickname,1,att000176_00
+sailor (collar),nickname,1,att000177_00
+oversized (collar),nickname,1,att000178_00
+notched (lapel),nickname,1,att000179_00
+peak (lapel),nickname,1,att000180_00
+shawl (lapel),nickname,1,att000181_00
+napoleon (lapel),nickname,1,att000182_00
+oversized (lapel),nickname,1,att000183_00
+collarless,neckline type,1,att000185_00
+asymmetric (neckline),neckline type,1,att000186_00
+crew (neck),neckline type,1,att000187_00
+round (neck),neckline type,1,att000188_00
+v-neck,neckline type,1,att000189_00
+surplice (neck),neckline type,1,att000190_00
+oval (neck),neckline type,1,att000191_00
+u-neck,neckline type,1,att000192_00
+sweetheart (neckline),neckline type,1,att000193_00
+queen anne (neck),neckline type,1,att000194_00
+boat (neck),neckline type,1,att000195_00
+scoop (neck),neckline type,1,att000196_00
+square (neckline),neckline type,1,att000197_00
+plunging (neckline),neckline type,1,att000198_00
+keyhole (neck),neckline type,1,att000199_00
+halter (neck),neckline type,1,att000200_00
+crossover (neck),neckline type,1,att000201_00
+choker (neck),neckline type,1,att000202_00
+high (neck),neckline type,1,att000203_00
+turtle (neck),neckline type,1,att000204_00
+cowl (neck),neckline type,1,att000205_00
+straight across (neck),neckline type,1,att000206_00
+illusion (neck),neckline type,1,att000207_00
+off-the-shoulder,neckline type,1,att000208_00
+one shoulder,neckline type,1,att000209_00
+set-in sleeve,nickname,1,att000210_00
+dropped-shoulder sleeve,nickname,1,att000211_00
+raglan (sleeve),nickname,1,att000212_00
+cap (sleeve),nickname,1,att000213_00
+tulip (sleeve),nickname,1,att000214_00
+puff (sleeve),nickname,1,att000215_00
+bell (sleeve),nickname,1,att000216_00
+circular flounce (sleeve),nickname,1,att000217_00
+poet (sleeve),nickname,1,att000218_00
+"dolman (sleeve), batwing (sleeve)",nickname,1,combo000005
+bishop (sleeve),nickname,1,att000221_00
+leg of mutton (sleeve),nickname,1,att000222_00
+kimono (sleeve),nickname,1,att000223_00
+cargo (pocket),nickname,1,att000224_00
+patch (pocket),nickname,1,att000225_00
+welt (pocket),nickname,1,att000226_00
+kangaroo (pocket),nickname,1,att000227_00
+seam (pocket),nickname,1,att000228_00
+slash (pocket),nickname,1,att000229_00
+curved (pocket),nickname,1,att000230_00
+flap (pocket),nickname,1,att000231_00
+single breasted,opening type,1,att000233_00
+double breasted,opening type,1,att000234_00
+lace up,opening type,1,att000235_00
+wrapping,opening type,1,att000236_00
+zip-up,opening type,1,att000237_00
+fly (opening),opening type,1,att000238_00
+chained (opening),opening type,1,att000239_00
+buckled (opening),opening type,1,att000240_00
+toggled (opening),opening type,1,att000241_00
+no opening,opening type,1,att000242_00
+plastic,non-textile material type,1,att000298_00
+rubber,non-textile material type,1,att000299_00
+metal,non-textile material type,1,att000300_00
+feather,non-textile material type,1,att000302_00
+gem,non-textile material type,1,att000303_00
+bone,non-textile material type,1,att000304_00
+ivory,non-textile material type,1,att000305_00
+fur,non-textile material type,1,att000306_00
+suede,leather,2,att000308_00
+shearling,leather,2,att000309_00
+crocodile,leather,2,att000310_00
+snakeskin,leather,2,att000311_00
+wood,non-textile material type,1,att000312_00
+no non-textile material,non-textile material type,1,att000313_00
+burnout,"textile finishing, manufacturing techniques",1,att000316_00
+distressed,"textile finishing, manufacturing techniques",1,att000317_00
+washed,"textile finishing, manufacturing techniques",1,att000318_00
+embossed,"textile finishing, manufacturing techniques",1,att000319_00
+frayed,"textile finishing, manufacturing techniques",1,att000320_00
+printed,"textile finishing, manufacturing techniques",1,att000321_00
+ruched,"textile finishing, manufacturing techniques",1,att000322_00
+quilted,"textile finishing, manufacturing techniques",1,att000323_00
+pleat,"textile finishing, manufacturing techniques",1,att000324_00
+gathering,"textile finishing, manufacturing techniques",1,att000325_00
+smocking,"textile finishing, manufacturing techniques",1,att000326_00
+tiered,"textile finishing, manufacturing techniques",1,att000327_00
+cutout,"textile finishing, manufacturing techniques",1,att000328_00
+slit,"textile finishing, manufacturing techniques",1,att000329_00
+perforated,"textile finishing, manufacturing techniques",1,att000330_00
+lining,"textile finishing, manufacturing techniques",1,att000331_00
+applique(a),"textile finishing, manufacturing techniques",1,att000332_00
+bead(a),"textile finishing, manufacturing techniques",1,att000333_00
+rivet(a),"textile finishing, manufacturing techniques",1,att000334_00
+sequin(a),"textile finishing, manufacturing techniques",1,att000335_00
+no special manufacturing technique,"textile finishing, manufacturing techniques",1,att000336_00
+plain (pattern),textile pattern,1,att000338_00
+abstract,textile pattern,1,att000339_00
+cartoon,textile pattern,1,att000340_00
+"letters, numbers",textile pattern,1,combo000009
+camouflage,textile pattern,1,att000343_00
+check,textile pattern,1,att000344_00
+dot,textile pattern,1,att000345_00
+fair isle,textile pattern,1,att000346_00
+floral,textile pattern,1,att000347_00
+geometric,textile pattern,1,att000348_00
+paisley,textile pattern,1,att000349_00
+stripe,textile pattern,1,att000350_00
+houndstooth (pattern),textile pattern,1,att000351_00
+herringbone (pattern),textile pattern,1,att000352_00
+chevron,textile pattern,1,att000353_00
+argyle,textile pattern,1,att000354_00
+leopard,animal,2,att000356_00
+snakeskin (pattern),animal,2,att000357_00
+cheetah,animal,2,att000358_00
+peacock,animal,2,att000359_00
+zebra,animal,2,att000360_00
+giraffe,animal,2,att000361_00
+toile de jouy,textile pattern,1,att000362_00
+plant,textile pattern,1,att000363_00

@@ -1,0 +1,47 @@
+name,supercategory,level,taxonomy_id
+"shirt, blouse",upperbody,2,combo000000
+"top, t-shirt, sweatshirt",upperbody,2,combo000001
+sweater,upperbody,2,obj000008_00
+cardigan,upperbody,2,obj000009_00
+jacket,upperbody,2,obj000010_00
+vest,upperbody,2,obj000011_00
+pants,lowerbody,2,obj000013_00
+shorts,lowerbody,2,obj000014_00
+skirt,lowerbody,2,obj000015_00
+coat,wholebody,2,obj000017_00
+dress,wholebody,2,obj000018_00
+jumpsuit,wholebody,2,obj000019_00
+cape,wholebody,2,obj000020_00
+glasses,head,2,obj000023_00
+hat,head,2,obj000025_00
+"headband, head covering, hair accessory",head,2,combo000002
+tie,neck,2,obj000030_00
+glove,arms and hands,2,obj000032_00
+watch,arms and hands,2,obj000033_00
+belt,waist,2,obj000035_00
+leg warmer,legs and feet,2,obj000037_00
+"tights, stockings",legs and feet,2,combo000003
+sock,legs and feet,2,obj000040_00
+shoe,legs and feet,2,obj000041_00
+"bag, wallet",others,2,combo000004
+scarf,others,2,obj000045_00
+umbrella,others,2,obj000046_00
+hood,garment parts,2,obj000049_00
+collar,garment parts,2,obj000050_00
+lapel,garment parts,2,obj000051_00
+epaulette,garment parts,2,obj000052_00
+sleeve,garment parts,2,obj000053_00
+pocket,garment parts,2,obj000055_00
+neckline,garment parts,2,obj000056_00
+buckle,closures,2,obj000058_00
+zipper,closures,2,obj000059_00
+applique,decorations,2,obj000061_00
+bead,decorations,2,obj000062_00
+bow,decorations,2,obj000063_00
+flower,decorations,2,obj000064_00
+fringe,decorations,2,obj000065_00
+ribbon,decorations,2,obj000066_00
+rivet,decorations,2,obj000067_00
+ruffle,decorations,2,obj000068_00
+sequin,decorations,2,obj000069_00
+tassel,decorations,2,obj000070_00
