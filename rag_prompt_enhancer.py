@@ -35,12 +35,12 @@ class RAGPromptEnhancer:
         return enhanced_prompt
 
 
-if __name__ == "__main__":
-    # Example usage
-    attributes_csv = "attributes.csv"  # Path to the attributes CSV
-    categories_csv = "categories.csv"  # Path to the categories CSV
+# if __name__ == "__main__":
+#     # Example usage
+#     attributes_csv = "attributes.csv"  # Path to the attributes CSV
+#     categories_csv = "categories.csv"  # Path to the categories CSV
 
-    enhancer = RAGPromptEnhancer(attributes_csv, categories_csv)
-    user_prompt = input("Enter your prompt: ")
-    enhanced_prompt = enhancer.enhance_prompt(user_prompt)
-    print(f"Enhanced Prompt: {enhanced_prompt}")
+#     enhancer = RAGPromptEnhancer(attributes_csv, categories_csv)
+#     user_prompt = input("Enter your prompt: ")
+#     enhanced_prompt = enhancer.enhance_prompt(user_prompt)
+#     print(f"Enhanced Prompt: {enhanced_prompt}")

@@ -22,12 +22,12 @@ class LoraStableDiffusion:
         return output_path
 
 
-if __name__ == "__main__":
-    # Example usage
-    model_path = "CompVis/stable-diffusion-v1-4"  # HuggingFace model path
-    lora_weights_path = "path_to_lora_weights.safetensors"  # Path to LoRA weights
+# if __name__ == "__main__":
+#     # Example usage
+#     model_path = "CompVis/stable-diffusion-v1-4"  # HuggingFace model path
+#     lora_weights_path = "realisticVisionV60B1_v60B1VAE.safetensors"  # Path to LoRA weights
 
-    stable_diffusion = LoraStableDiffusion(model_path, lora_weights_path)
-    enhanced_prompt = input("Enter the enhanced prompt: ")
-    image_path = stable_diffusion.generate_image(enhanced_prompt)
-    print(f"Generated Image saved at: {image_path}")
+#     stable_diffusion = LoraStableDiffusion(model_path, lora_weights_path)
+#     enhanced_prompt = input("Enter the enhanced prompt: ")
+#     image_path = stable_diffusion.generate_image(enhanced_prompt)
+#     print(f"Generated Image saved at: {image_path}")
