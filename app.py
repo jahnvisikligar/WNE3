@@ -13,7 +13,7 @@ prompt_enhancer = RAGPromptEnhancer(attributes_csv, categories_csv)
 
 # Load Stable Diffusion
 model_path = "CompVis/stable-diffusion-v1-4"
-lora_weights_path = "path_to_lora_weights.safetensors"
+lora_weights_path = "realisticVisionV60B1_v60B1VAE.safetensors"
 stable_diffusion = LoraStableDiffusion(model_path, lora_weights_path)
 
 # Input Model
